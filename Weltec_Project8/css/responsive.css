@@ -1,0 +1,528 @@
+@media only screen and (max-width: 1440px) {
+    .banner-img {
+        height: fit-content;
+    }
+    .slog {
+        top: 50%;
+    }
+    .align-items-center {
+        justify-content: space-between;
+    }
+    .styky-img-possition {
+        justify-content: space-between;
+    }
+    .subscribe-bg-img-perent-2 {
+        top: 8%;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .slog h1 {
+        font-size: 49px;
+        line-height: 60px;
+    }
+    .josefin-slog-text {
+        font-size: 49px;
+    }
+    .discover-botton {
+        margin-top: 10px;
+    }
+    .slog {
+        top: 35%;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .tabs select {
+        margin: 21px 5px;
+    }
+    .tabs .Tour-Type, .Tour-Duration, .Tour-Dastination {
+        width: 230px;
+        margin-left: 13px;
+    }
+    .tab-search-botton {
+        margin-left: 6px;
+    }
+    .tab-search-botton {
+        padding: 20px 55px;
+    }
+    .subscribe-content h1 {
+        left: -14%;
+    }
+    .subscribe-content input {
+        padding: 20px 170px 20px 20px;
+    }
+    .subscribe-content a {
+        top: 20.1%;
+        padding: 21px 40px 21px 41px;
+    }
+    .dark-bg {
+        padding: 100px 0px 100px 150px;
+    }
+    .about-img-1 {
+        right: -5%;
+    }
+    .about-img-2 {
+        top: 268px;
+        left: -60px;
+    }
+    .populare-content-hor {
+        top: 27%;
+    }
+    .populare-content-ver {
+        top: 41%;
+    }
+    .philosopher-regular-sub-title {
+        font-size: 21px;
+    }
+    .explore-botton {
+        font-size: 12px;
+    }
+    .subscribe-bg-content h1 {
+        font-size: 28px;
+    }
+    .subscribe-bg-img-perent-2 input {
+        padding: 20px 276px 20px 20px;
+    }
+    .subscribe-bg-img-perent-2 {
+        top: 5%;
+    }
+    .play-botton-perent {
+        margin-bottom: 61px;
+    }
+    .about-banner {
+        height: fit-content;
+    }
+    .about-slog {
+        top: 75%;
+        width: 48%;
+    }
+    .vector2 {
+        right: 32px;
+        bottom: 21px;
+    }
+    .vector4 {
+        bottom: 50px;
+    }
+    .about-heading {
+        width: 52%;
+    }
+    .advanture-cont {
+        bottom: 22.9%;
+    }
+    .input1, .input2 {
+        width: 43%;
+    }
+    textarea {
+        width: 93.5%;
+    }
+    .about-btn {
+        margin-right: 6.4%;
+    }
+    .get-cont a {
+        font-size: 16px;
+    }
+    .get-cont p {
+        font-size: 16px;
+    }
+    .atraction-banner {
+        height: fit-content;
+    }
+    .tour-slog {
+        top: 77%;
+        left: 6%;
+        width: 58%;
+    }
+    .country-count  ul {
+        margin-left: 15px;
+    }
+    .tour-slog {
+        top: 76%;
+        left: 3%;
+        width: 60%;
+    }
+    .col-md-3 {
+        flex: 0 0 auto;
+        width: 45%;
+    }
+    .desti-names ul li {
+        font-size: 15px;
+    }
+    .desti-names ul {
+        margin: 30px 0px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .slog h1 {
+        font-size: 32px;
+    }
+    .josefin-slog-text {
+        font-size: 32px;
+    }
+    .slog h1 {
+        line-height: 40px;
+    }
+    .slog {
+        top: 30%;
+    }
+    .slog p {
+        font-size: 17px;
+    }
+    .tabs .Tour-Type, .Tour-Duration, .Tour-Dastination {
+        width: 47%;
+    }
+    .Tour-Dastination{
+        margin-left: 14px !important;
+    }
+    .tab-search-botton {
+        margin-left: 5px;
+    }
+    .tab-search-botton {
+        padding: 20px 133px;
+    }
+    .about-img-1 {
+        width: 40%;
+    }
+    .dark-bg {
+        padding: 50px 0px 0px 150px;
+    }
+    .about-img-2 {
+        width: 40%;
+    }
+    .about-img-2 {
+        top: 161px;
+        left: -51px;
+    }
+    .dark-bg :nth-child(2) {
+        margin-left: 20px;
+    }
+    .align-div {
+        position: relative;
+        left: 10%;
+    }
+    .col-mar {
+        margin-left: 44px;
+    }
+    .play-botton-perent {
+        margin-bottom: 0;
+    }
+    .subscribe-content input {
+        padding: 20px 30px 20px 20px;
+    }
+    .subscribe-content h1 {
+        left: 0;
+    }
+    .explore-botton {
+        margin-top: 3px;
+        padding: 10px 20px 10px 20px;
+    }
+    .populare-content-ver {
+        top: 20%;
+    }
+    .populare-content-hor {
+        top: 17%;
+    }
+    .subscribe-bg-img-perent-2 input {
+        padding: 20px 11px 20px 20px;
+    }
+    .subscribe-bg-img-perent-2 {
+        top: 2%;
+    }
+    .about-slog {
+        top: 50%;
+        width: 84%;
+    }
+    .about-slog h1 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .josefin-slog-text {
+        font-size: 54px !important;
+    }
+    .about-heading {
+        width: 71%;
+    }
+    .vector2 {
+        right: 25px;
+        bottom: 14px;
+    }
+    .vector3 {
+        top: 5%;
+    }
+    .vector4 {
+        bottom: 60px;
+    }
+    .advanture-cont {
+        bottom: 27.2%;
+    }
+    .input1, .input2 {
+        width: 43.1%;
+        margin-right: 29px;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .banner-img {
+        height: fit-content;
+        height: 400px;
+    }
+    .map-bg {
+        width: 100%;
+    }
+    .slog {
+        position: relative;
+        margin-top: 40px;
+    }
+    .slog h1 {
+        color: #008F8C;
+    }
+    .logo {
+        width: 150px;
+        height: 80px;
+    }
+    .slog p {
+        color: #008F8C;
+    }
+    .tabs .Tour-Type, .Tour-Duration, .Tour-Dastination {
+        width: 92%;
+    }
+    .Tour-Duration{
+        margin-left: 13px !important;
+    }
+    .tab-search-botton {
+        padding: 20px 122px;
+        margin-left: 13px;
+    }
+    .tab-content {
+        padding-top: 26px;
+        padding-bottom: 45px;
+    }
+    .tab-search-botton {
+        margin-top: 20px;
+    }
+    .about-img-1,.about-img-2 {
+        display: none;
+    }
+    .dark-bg {
+        padding: 0px 0px 0px 0;
+    }
+    .dark-bg :first-child :first-child {
+        writing-mode: horizontal-tb;
+        padding-left: 10px;
+    }
+    .align-div {
+        left: 10px;
+    }
+    .col-mar {
+        margin-left: 10px;
+    }
+    .video-contant {
+        color: #008F8C;
+        position: relative;
+        margin-top: 20px;
+    }
+    .mountains-bg {
+        display: none;
+    }
+    .populare-content-hor {
+        top: 29%;
+    }
+    .populare-content-ver {
+        top: 43%;
+    }
+    .subscribe-bg-img-perent-2 {
+        position: relative;
+    }
+    .subscribe-bg-img-perent-2 input {
+        margin-left: 0px;
+    }
+    .subscribe-bg-img-perent-2 input {
+        padding: 20px 195px 20px 20px;
+    }
+    .play-botton-perent {
+        margin-bottom: 72px;
+    }
+    .common-bg p{
+        font-size: 12px;
+    }
+    .common-bg h4{
+        font-size: 18px;
+    }
+    footer{
+        text-align: center;
+    }
+    .last-div{
+        text-align: center;
+        align-items: center;
+    }
+    .about-slog {
+        position: relative;
+        width: 100%;
+        text-align: left;
+        top: 0;
+        left: 20px;
+        transform: translate(0);
+    }
+    .about-slog h1 {
+        color:#008F8C;
+    }
+    .about-heading {
+        width: 100%;
+    }
+    .vector2 {
+        right: 35px;
+        bottom: 25px;
+    }
+    .vector3 {
+        top: 5.7%;
+    }
+    .vector4 {
+        bottom: 55px;
+    }
+    .advanture-cont {
+        bottom: 19.7%;
+    }
+    .input1, .input2 {
+        width: 100%;
+    }
+    textarea {
+        width: 100%;
+    }
+    .about-btn {
+        margin-right: 0;
+        padding: 20px 43%;
+    }
+    .get-cont{
+        margin-top: 50px;
+    }
+    .tour-slog h1 {
+        color: #008F8C !important;
+    }
+    .tour-slog {
+        color: #008F8C;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        width: 97%;
+        margin: 20px;
+    }
+    .josefin {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .tour-slog-shadow {
+        text-shadow: none;
+    }
+    .tour-slog h1 {
+        font-size: 54px;
+    }
+    .tour-slog p {
+        margin-bottom: 0rem;
+    }
+    .desti-names ul {
+        margin: 30px 50px;
+    }
+    .desti-names ul li {
+        font-size: 18px;
+    }
+    .desti-names ul {
+        margin: 30px 44px;
+    }
+    .destinations {
+        margin-bottom: 100px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .banner-img {
+        height: 400px;
+    }
+    .subscribe-bg-img-perent-2 input {
+        padding: 20px 92px 20px 20px;
+    }
+    .tab-search-botton {
+        padding: 20px 107px;
+    }
+    .nav-tabs li{
+        font-size: 8px;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        padding: 13px 9.4px;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active.nav-tabs{
+        margin-bottom: 0px !important;
+    }
+    .tab-bottons{
+        padding: 10px 9.4px;
+    }
+    .tabs li {
+        margin: 1px;
+    }
+    .tab-content {
+        margin-left: 1px;
+    }
+    .tab-bottons-perent {
+        margin-bottom: 0px !important;
+    }
+    @keyframes playbotton1 {
+        0% { width: 40px; height: 40px;}
+        100% { width: 100px; height: 100px;}
+    }
+    @keyframes playbotton2 {
+    0% { width: 40px; height: 40px;}
+    100% { width: 80px; height: 80px;}
+    }
+    @keyframes playbotton3 {
+    0% { width: 40px; height: 40px;}
+    100% { width: 70px; height: 70px;}
+    }
+    .play-botton-perent {
+        margin-bottom: -5px;
+    }
+    .subscribe-content input {
+        padding: 10px 10px 10px 10px;
+    }
+    .subscribe-content a {
+        padding: 16px 10px 12px 10px;
+        font-size: 12px;
+    }
+    .populare-content-hor {
+        top: 16%;
+    }
+    .populare-content-ver {
+        top: 31%;
+    }
+    .explore-botton {
+        padding: 5px 10px 5px 10px;
+        font-size: 12px;
+    }
+    .common-bg p {
+        font-size: 11px;
+    }
+    .vector2 {
+        right: 28px;
+        bottom: 16px;
+    }
+    .vector4 {
+        bottom: 40px;
+    }
+    .advanture-cont {
+        bottom: 22.9%;
+    }
+    .about-btn {
+        padding: 20px 41%;
+    }
+    .tour-slog h1 {
+        font-size: 45px !important;
+    }
+    .josefin-slog-text {
+        font-size: 45px !important;
+    }
+    .desti-names ul {
+        margin: 30px 23px;
+    }
+    .margin-div{
+        margin: auto;
+    }
+    .col-md-3 {
+        width: 100%;
+    }
+}
